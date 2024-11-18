@@ -1,0 +1,7 @@
+node_modules
+*.pom
+*.pom.sha1
+_remote.repositories
+C:/Users/diogo/*.pom
+C:/Users/diogo/*.pom.sha1
+C:/Users/diogo/_remote.repositories
